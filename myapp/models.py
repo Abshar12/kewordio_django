@@ -7,3 +7,4 @@ class library (models.Model):
     def __str__ (self):
         return self.book
         return self.author
+print("test")
